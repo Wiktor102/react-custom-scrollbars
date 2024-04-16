@@ -1,3 +1,8 @@
+```
+* Resolved a build failure issue
+* Added compatibility with react 18.x
+```
+
 react-custom-scrollbars
 =========================
 
