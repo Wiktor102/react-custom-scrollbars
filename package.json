@@ -65,5 +65,8 @@
     "dom-css": "^2.0.0",
     "prop-types": "^15.5.10",
     "raf": "^3.1.0"
-  }
+  },
+  "precommit": [
+    "build"
+  ]
 }
